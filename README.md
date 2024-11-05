@@ -7,3 +7,8 @@
 # 📈 Financial Terminal
 <h4 align="center">An isometric view depicting contributions made over the last year.</h4>
 <p align="center">
+	<a href="./profile-3d-contrib/profile-night-view.svg">
+		<img width="900em" src="./profile-3d-contrib/profile-night-view.svg">
+	</a>
+</p>
+<br>
