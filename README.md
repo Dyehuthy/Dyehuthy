@@ -3,3 +3,7 @@
  <source media="(prefers-color-scheme: light)" srcset="https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg">
  <img alt="Shows an illustrated a Quant Setup" src="https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg">
 </picture>
+
+# 📈 Financial Terminal
+<h4 align="center">An isometric view depicting contributions made over the last year.</h4>
+<p align="center">
