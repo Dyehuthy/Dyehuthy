@@ -1,11 +1,13 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg">
- <img alt="Shows an illustrated a Quant Setup" src="https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg">
-</picture>
+[![Header](https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg "Header")](https://x.com/DyehuthyTV)
 
-## 🌎 Spot Sites
-<h4 align="center"> </h4>
-<a href="https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i"><img align="left" src="https://www.finsmes.com/wp-content/uploads/2019/09/koyfin.jpg" alt="Koyfin Terminal" width="220px"/></a>
-<a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="left" src="https://images.seeklogo.com/logo-png/52/1/coinmarketcap-logo-png_seeklogo-525091.png" alt="CoinMarketCap" width="360px"/></a>
-<a href="https://stocktwits.com/Dyehuthy"><img align="left" src="https://stocktwits.com/about/wp-content/uploads/sites/3/2021/07/img__stocktwits-share-default.jpg" alt="StockTwits" width="120px"/></a>
+## Social  
+<a align="center">
+<a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5900cd240000ff0005a144b5/0x0.png" alt="CoinMarketCap Profile" width="55px"/></a> 
+<a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://pbs.twimg.com/profile_images/1846921938544869376/Sh68jVI9_400x400.png" alt="StockTwits Profile" width="38px"/></a>
+</a>
+<br><br>
+
+## Investor Tools 
+Stock Research | Portfolio Metrics | News                
+-------------- | ----------------- | -------------------- 
+👉 [Koyfin](https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i) | 👉 [Portfolio Visualizer](https://www.portfoliovisualizer.com/) | 👉 [Reuters](https://www.reuters.com/markets/) |
