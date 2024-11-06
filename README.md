@@ -1,6 +1,7 @@
 [![Header](https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg "Header")](https://x.com/DyehuthyTV)
 
 [![GitHub followers](https://img.shields.io/github/followers/dyehuthy?style=social)](https://github.com/dyehuthy)
+![Discord Shield](https://discordapp.com/api/guilds/1093732819299209228/widget.png?style=shield)
 
 ## 🌐 Social  
 <a align="center">
