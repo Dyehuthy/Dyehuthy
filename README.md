@@ -1,4 +1,6 @@
 [![Header](https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg "Header")](https://x.com/DyehuthyTV)
+---
+[![GitHub followers](https://img.shields.io/github/followers/dyehuthy?style=social)](https://github.com/dyehuthy)
 
 ## 🌐 Social  
 <a align="center">
@@ -13,3 +15,12 @@
 Stock Research | Portfolio Metrics | News                
 -------------- | ----------------- | -------------------- 
 👉 [Koyfin](https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i) | 👉 [Portfolio Visualizer](https://www.portfoliovisualizer.com/) | 👉 [Reuters](https://www.reuters.com/markets/) |
+
+<br><br>
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/dyehuthy">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyehuthy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+</a>
+</p>
