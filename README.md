@@ -1,8 +1,10 @@
 [![Header](https://s3.coinmarketcap.com/static-gravity/image/7c2ad8389e2c4ae587a079b90bcf8a49.jpg "Header")](https://x.com/DyehuthyTV)
 
+[![Visits Badge](https://badges.pufler.dev/visits/Dyehuthy/Dyehuthy)](https://github.com/Dyehuthy)
 [![GitHub followers](https://img.shields.io/github/followers/dyehuthy?style=social)](https://github.com/dyehuthy)
 ![Discord Shield](https://discordapp.com/api/guilds/1093732819299209228/widget.png?style=shield)
-<a href="https://x.com/DyehuthyTV" ><img src="https://img.shields.io/twitter/follow/DyehuthyTV.svg?style=social" /> 
+<a href="https://x.com/DyehuthyTV" ><img src="https://img.shields.io/twitter/follow/DyehuthyTV.svg?style=social" />
+
 
 
 ## 🌐 Social  
@@ -26,5 +28,3 @@ Stock Research | Portfolio Metrics | News
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyehuthy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-[![Visits Badge](https://badges.pufler.dev/visits/Dyehuthy/Dyehuthy)](https://github.com/Dyehuthy)
