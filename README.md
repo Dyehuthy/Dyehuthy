@@ -12,7 +12,7 @@
 <a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5900cd240000ff0005a144b5/0x0.png" alt="CoinMarketCap Profile" width="55px"/></a> 
 <a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://pbs.twimg.com/profile_images/1846921938544869376/Sh68jVI9_400x400.png" alt="StockTwits Profile" width="38px"/></a>
 <a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="Reddit" width="45px"/></a>
-<a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Reddit" width="38px"/></a>
+<a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://static-00.iconduck.com/assets.00/kaggle-icon-2048x2048-fxhlmjy3.png" alt="Reddit" width="37px"/></a>
 </a>
 <br><br>
 
