@@ -1,4 +1,4 @@
-[![Header](https://pbs.twimg.com/profile_banners/1662106155630354432/1734847687/1500x500 "Header")](https://x.com/DyehuthyTV)
+[![Header](https://pbs.twimg.com/profile_banners/1662106155630354432/1736616703/1500x500 "Header")](https://x.com/DyehuthyTV)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Dyehuthy/Dyehuthy)](https://github.com/Dyehuthy)
 [![GitHub followers](https://img.shields.io/github/followers/dyehuthy?style=social)](https://github.com/dyehuthy)
