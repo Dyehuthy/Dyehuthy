@@ -9,10 +9,11 @@
 
 ## 🌐 Social  
 <a align="center">
-<a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://s3-eu-west-1.amazonaws.com/tpd/logos/5900cd240000ff0005a144b5/0x0.png" alt="CoinMarketCap Profile" width="55px"/></a> 
+<a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
+<a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://public.bnbstatic.com/image/pgc/202302/f888d2addb0ad23f7ad9dafc5461ade5.jpg" alt="CoinMarketCap Profile" width="38px"/></a>
+<a href="https://cryptoquant.com/profile/u/dyehuthy2023?tab=dashboard"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNNAQwTYO18cv9XRi2X0oPpwMfOEwfdPlA&s" alt="Reddit" width="38px"/></a>
 <a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPBg9KVpCTU4VR8tCLAgUY-DcNaE5YVssfg&s" alt="StockTwits Profile" width="38px"/></a>
-<a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="Reddit" width="45px"/></a>
-<a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Reddit" width="37px"/></a>
+<a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Reddit" width="38px"/></a>
 </a>
 <br><br>
 
