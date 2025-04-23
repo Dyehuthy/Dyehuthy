@@ -6,7 +6,7 @@
 ![Discord Shield](https://discordapp.com/api/guilds/1093732819299209228/widget.png?style=shield)
 <a href="https://x.com/DyehuthyTV" ><img src="https://img.shields.io/twitter/follow/DyehuthyTV.svg?style=social" />
 
-## 🌐 Social  
+### 🌐 Social  
 <a align="center">
 <a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
 <a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://public.bnbstatic.com/image/pgc/202302/f888d2addb0ad23f7ad9dafc5461ade5.jpg" alt="CoinMarketCap Profile" width="38px"/></a>
@@ -14,16 +14,15 @@
 <a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPBg9KVpCTU4VR8tCLAgUY-DcNaE5YVssfg&s" alt="StockTwits Profile" width="38px"/></a>
 <a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Reddit" width="38px"/></a>
 </a>
-<br><br>
 
-## 🔧 Investor Tools 
+<br><br>
+### 🔧 Investor Tools 
 Stock Research | Portfolio Metrics | News                
 -------------- | ----------------- | -------------------- 
-👉 [Koyfin](https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i) | 👉 [Portfolio Visualizer](https://www.portfoliovisualizer.com/) | 👉 [Reuters](https://www.reuters.com/markets/) |
+|[![Koyfin Terminal](https://img.shields.io/badge/koyfin%20terminal-1B1B3A.svg?style=for-the-badge)](https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i)|[![Portfolio Visualizer](https://img.shields.io/badge/portfolio%20visualizer-4B0082.svg?style=for-the-badge)](https://www.portfoliovisualizer.com)|[![Reuters](https://img.shields.io/badge/reuters-FF8000.svg?style=for-the-badge&logo=reuters&logoColor=white)](https://www.reuters.com/markets/)| 
 
 <br><br>
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/dyehuthy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyehuthy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
