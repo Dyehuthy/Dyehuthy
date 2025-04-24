@@ -6,7 +6,7 @@
 ![Discord Shield](https://discordapp.com/api/guilds/1093732819299209228/widget.png?style=shield)
 <a href="https://x.com/DyehuthyTV" ><img src="https://img.shields.io/twitter/follow/DyehuthyTV.svg?style=social" />
 
-### 🌐 Social  
+### 🌐 &nbsp;Social Networks  
 <a align="center">
 <a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
 <a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://public.bnbstatic.com/image/pgc/202302/f888d2addb0ad23f7ad9dafc5461ade5.jpg" alt="CoinMarketCap Profile" width="38px"/></a>
@@ -16,7 +16,7 @@
 </a>
 
 <br><br>
-### 🔧 Investor Tools 
+### 🔧 &nbsp;Investor Tools 
 Stock Research | Portfolio Metrics | News                
 -------------- | ----------------- | -------------------- 
 |[![Koyfin Terminal](https://img.shields.io/badge/koyfin%20terminal-1B1B3A.svg?style=for-the-badge)](https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i)|[![Portfolio Visualizer](https://img.shields.io/badge/portfolio%20visualizer-4B0082.svg?style=for-the-badge)](https://www.portfoliovisualizer.com)|[![Reuters](https://img.shields.io/badge/reuters-FF8000.svg?style=for-the-badge&logo=reuters&logoColor=white)](https://www.reuters.com/markets/)| 
