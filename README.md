@@ -1,7 +1,7 @@
 [![Header](https://pbs.twimg.com/profile_banners/1662106155630354432/1742258469/1500x500 "Header")](https://x.com/DyehuthyTV)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Dyehuthy/Dyehuthy)](https://github.com/Dyehuthy)
-[![GitHub Followers](https://img.shields.io/github/followers/dyehuthy?style=social)](https://github.com/dyehuthy)
+[![GitHub Followers](https://img.shields.io/github/followers/dyehuthy?style=social)](https://github.com/Dyehuthy?tab=followers)
 [![Stars](https://img.shields.io/badge/Stars-100-blue?logo=github&style=flat)](https://github.com/Dyehuthy?tab=stars)
 ![Discord Shield](https://discordapp.com/api/guilds/1093732819299209228/widget.png?style=shield)
 <a href="https://x.com/DyehuthyTV" ><img src="https://img.shields.io/twitter/follow/DyehuthyTV.svg?style=social" />
