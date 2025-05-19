@@ -16,7 +16,7 @@
 </p>
 
 ---
-<h3 align="center">⫘⫘⫘⫘⫘⫘ SOCIAL NETWORKS ⫘⫘⫘⫘⫘⫘</h3>
+<h3 align="center">────⋆⋅☣︎⋅⋆── SOCIAL NETWORKS ──⋆⋅☣︎⋅⋆────</h3>
 <p align="center"> <a align="center">
 <a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
 <a href="https://coinmarketcap.com/community/profile/Dyehuthy/"><img align="center" src="https://public.bnbstatic.com/image/pgc/202302/f888d2addb0ad23f7ad9dafc5461ade5.jpg" alt="CoinMarketCap Profile" width="38px"/></a>
@@ -27,7 +27,7 @@
 </a> </p>
 
 ---
-<h3 align="center">⫘⫘⫘⫘⫘⫘ INVESTOR TOOLS ⫘⫘⫘⫘⫘⫘</h3>
+<h3 align="center">────⋆⋅₿⋅⋆── INVESTOR TOOLS ──⋆⋅₿⋅⋆────</h3>
 <div align="center">
 
 <table>
@@ -46,7 +46,7 @@
 </div>
  
 ---
-<h3 align="center">⫘⫘⫘⫘⫘⫘ GITHUB STATS ⫘⫘⫘⫘⫘⫘</h3>
+<h3 align="center">────⋆⋅☣︎⋅⋆── GITHUB STATS ──⋆⋅☣︎⋅⋆────</h3>
 <p align="center">
 <a href="https://github.com/dyehuthy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyehuthy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
