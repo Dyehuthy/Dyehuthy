@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dyehuthy&label=Visits&color=00ffff&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Dyehuthy&label=Visits&color=8fbc8f&style=flat" />
   <a href="https://github.com/Dyehuthy?tab=followers"><img src="https://img.shields.io/github/followers/Dyehuthy?style=social" /></a>
   <a href="https://github.com/Dyehuthy?tab=stars"><img src="https://img.shields.io/badge/Stars-Lists-%23ff00ff?logo=github&style=flat" /></a>
   <img src="https://discordapp.com/api/guilds/1093732819299209228/widget.png?style=shield" />
