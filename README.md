@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://x.com/DyehuthyTV">
-    <img src="https://pbs.twimg.com/profile_banners/1662106155630354432/1742258469/1500x500" alt="Header" width="100%" />
+    <img src="https://pbs.twimg.com/profile_banners/1662106155630354432/1750993527/1500x500" alt="Header" width="100%" />
   </a>
 </p>
 
