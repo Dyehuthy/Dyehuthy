@@ -22,6 +22,7 @@
 <a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
 <a href="https://cryptoquant.com/profile/u/dyehuthy2023?tab=dashboard"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNNAQwTYO18cv9XRi2X0oPpwMfOEwfdPlA&s" alt="CryptoQuant" width="38px"/></a>
 <a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPBg9KVpCTU4VR8tCLAgUY-DcNaE5YVssfg&s" alt="StockTwits Profile" width="38px"/></a>
+<a href="https://replit.com/@Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k" alt="Replit Profile" width="38px"/></a>
 <a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Kaggle Profile" width="38px"/></a>
 <a href="https://learn.microsoft.com/en-us/users/dyehuthy/"><img align="center" src="https://cdn-icons-png.flaticon.com/256/732/732221.png" alt="Microsoft Learn Profile" width="38px"/></a>
 <a href="https://dyehuthy.imgbb.com/albums"><img align="center" src="https://cdn-1.webcatalog.io/catalog/imgbb/imgbb-icon-filled-256.webp?v=1733731311286" alt="ImgBB Profile - Albums" width="38px"/></a>
