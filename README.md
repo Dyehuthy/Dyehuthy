@@ -19,7 +19,7 @@
 
 <h3 align="center">────⋆⋅☣︎⋅⋆── SOCIAL NETWORKS ──⋆⋅☣︎⋅⋆────</h3>
 <p align="center"> <a align="center">
-<a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
+<a href="https://www.reddit.com/user/DyehuthyTV/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
 <a href="https://cryptoquant.com/profile/u/dyehuthy2023?tab=dashboard"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNNAQwTYO18cv9XRi2X0oPpwMfOEwfdPlA&s" alt="CryptoQuant" width="38px"/></a>
 <a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRPBg9KVpCTU4VR8tCLAgUY-DcNaE5YVssfg&s" alt="StockTwits Profile" width="38px"/></a>
 <a href="https://replit.com/@Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k" alt="Replit Profile" width="38px"/></a>
