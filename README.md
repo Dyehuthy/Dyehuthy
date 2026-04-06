@@ -38,9 +38,9 @@
     <th>News</th>
   </tr>
   <tr>
-    <td><a href="https://www.koyfin.com/get-discount-from-a-friend/?ref_id=0OfxPRjOPTjFAQ7YVva1i"><img src="https://img.shields.io/badge/koyfin%20terminal-1B1B3A.svg?style=for-the-badge" /></a></td>
-    <td><a href="https://www.portfoliovisualizer.com"><img src="https://img.shields.io/badge/portfolio%20visualizer-4B0082.svg?style=for-the-badge" /></a></td>
-    <td><a href="https://www.reuters.com/markets/"><img src="https://img.shields.io/badge/reuters-FF8000.svg?style=for-the-badge&logo=reuters&logoColor=white" /></a></td>
+    <td><a href="https://stockanalysis.com/"><img src="https://img.shields.io/badge/stock%20analysis-blue.svg?style=for-the-badge" /></a></td>
+    <td><a href="https://www.portfoliovisualizer.com"><img src="https://img.shields.io/badge/portfolio%20visualizer-purple.svg?style=for-the-badge" /></a></td>
+    <td><a href="https://www.reuters.com/markets/"><img src="https://img.shields.io/badge/reuters-orange.svg?style=for-the-badge&logo=reuters&logoColor=white" /></a></td>
   </tr>
 </table>
 
