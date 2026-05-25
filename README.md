@@ -19,14 +19,14 @@
 
 <h3 align="center">────⋆⋅☣︎⋅⋆── SOCIAL NETWORKS ──⋆⋅☣︎⋅⋆────</h3>
 <p align="center"> <a align="center">
-<a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="38px"/></a>
-<a href="https://cryptoquant.com/profile/u/dyehuthy2023?tab=dashboard"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNNAQwTYO18cv9XRi2X0oPpwMfOEwfdPlA&s" alt="CryptoQuant" width="38px"/></a>
-<a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoD3bQwpPvjaiaYUShIAU0uu220f6BZJ_psQ&s" alt="StockTwits Profile" width="38px"/></a>
-<a href="https://replit.com/@Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k" alt="Replit Profile" width="38px"/></a>
-<a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Kaggle Profile" width="38px"/></a>
-<a href="https://www.quantconnect.com/u/dyehuthy"><img align="center" src="https://avatars.githubusercontent.com/u/3912814?s=280&v=4" alt="QuantConnect Profile" width="38px"/></a>  
-<a href="https://learn.microsoft.com/en-us/users/dyehuthy/"><img align="center" src="https://cdn-icons-png.flaticon.com/256/732/732221.png" alt="Microsoft Learn Profile" width="38px"/></a>
-<a href="https://dyehuthy.imgbb.com/albums"><img align="center" src="https://cdn-1.webcatalog.io/catalog/imgbb/imgbb-icon-filled-256.webp?v=1733731311286" alt="ImgBB Profile - Albums" width="38px"/></a>
+<a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="44px"/></a>
+<a href="https://cryptoquant.com/profile/u/dyehuthy2023?tab=dashboard"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNNAQwTYO18cv9XRi2X0oPpwMfOEwfdPlA&s" alt="CryptoQuant" width="44px"/></a>
+<a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoD3bQwpPvjaiaYUShIAU0uu220f6BZJ_psQ&s" alt="StockTwits Profile" width="44px"/></a>
+<a href="https://replit.com/@Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k" alt="Replit Profile" width="44px"/></a>
+<a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Kaggle Profile" width="44px"/></a>
+<a href="https://www.quantconnect.com/u/dyehuthy"><img align="center" src="https://avatars.githubusercontent.com/u/3912814?s=280&v=4" alt="QuantConnect Profile" width="44px"/></a>  
+<a href="https://learn.microsoft.com/en-us/users/dyehuthy/"><img align="center" src="https://cdn-icons-png.flaticon.com/256/732/732221.png" alt="Microsoft Learn Profile" width="44px"/></a>
+<a href="https://dyehuthy.imgbb.com/albums"><img align="center" src="https://cdn-1.webcatalog.io/catalog/imgbb/imgbb-icon-filled-256.webp?v=1733731311286" alt="ImgBB Profile - Albums" width="44px"/></a>
 </a> </p>
 
 # <h3 align="center">────⋆⋅₿⋅⋆── INVESTOR TOOLS ──⋆⋅₿⋅⋆────</h3>
@@ -47,18 +47,9 @@
 
 # <h3 align="center">────⋆⋅☣︎⋅⋆── LANGUAGES & TECHNOLOGIES ──⋆⋅☣︎⋅⋆────</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,html,css,js,react,rust,cs,cpp,bash,linux,powershell,windows" />
+  </a>
 </p>
  
 # <h3 align="center">────⋆⋅☣︎⋅⋆── GITHUB STATS ──⋆⋅☣︎⋅⋆────</h3>
