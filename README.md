@@ -14,9 +14,7 @@
   <a href="https://x.com/DyehuthyTV"><img src="https://img.shields.io/twitter/follow/DyehuthyTV.svg?style=social" /></a>
 </p>
 
----
-
-<h3 align="center">────⋆⋅☣︎⋅⋆── SOCIAL NETWORKS ──⋆⋅☣︎⋅⋆────</h3>
+# <h3 align="center">────⋆⋅☣︎⋅⋆── SOCIAL NETWORKS ──⋆⋅☣︎⋅⋆────</h3>
 <p align="center"> <a align="center">
 <a href="https://www.reddit.com/user/DyehuthyTV/"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-reddit-square1-512.png" alt="Reddit" width="42px"/></a>
 <a href="https://cryptoquant.com/profile/u/dyehuthy2023?tab=dashboard"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7YNNAQwTYO18cv9XRi2X0oPpwMfOEwfdPlA&s" alt="CryptoQuant" width="42px"/></a>
