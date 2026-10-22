@@ -92,7 +92,7 @@ class QuantCreed:
 <a href="https://stocktwits.com/Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoD3bQwpPvjaiaYUShIAU0uu220f6BZJ_psQ&s" alt="StockTwits Profile" width="42px"/></a>
 <a href="https://replit.com/@Dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMkKd78cldC7LqWfHcXPI7MptFGF4WB8adh_oA46HFb7Yx6h91KNqS0LjqLnp7OfTC8k" alt="Replit Profile" width="42px"/></a>
 <a href="https://www.kaggle.com/dyehuthy"><img align="center" src="https://www.kaggle.com/static/images/logos/k-logo-opengraph.png" alt="Kaggle Profile" width="42px"/></a>
-<a href="https://www.quantconnect.com/u/dyehuthy"><img align="center" src="https://avatars.githubusercontent.com/u/3912814?s=280&v=4" alt="QuantConnect Profile" width="42px"/></a>  
+<a href="https://www.quantconnect.com/u/dyehuthy"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR--u5Lom17gApOjPsI3lvkBbQCfMaan8qgBKNblhHoW8XgF5xH0UBz9Y&s=10" alt="QuantConnect Profile" width="42px"/></a>  
 <a href="https://learn.microsoft.com/en-us/users/dyehuthy/"><img align="center" src="https://cdn-icons-png.flaticon.com/256/732/732221.png" alt="Microsoft Learn Profile" width="42px"/></a>
 <a href="https://dyehuthy.imgbb.com/albums"><img align="center" src="https://cdn-1.webcatalog.io/catalog/imgbb/imgbb-icon-filled-256.webp?v=1733731311286" alt="ImgBB Profile - Albums" width="42px"/></a>
 </a> </p>
