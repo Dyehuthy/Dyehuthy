@@ -126,9 +126,9 @@ class QuantCreed:
     <th>Research Papers</th>
   </tr>
   <tr>
-    <td><a href="https://fred.stlouisfed.org/"><img src="https://img.shields.io/badge/FRED-macro%20data-004b87.svg?style=for-the-badge" /></a></td>
-    <td><a href="https://www.sec.gov/edgar"><img src="https://img.shields.io/badge/SEC-EDGAR-1f4e79.svg?style=for-the-badge" /></a></td>
-    <td><a href="https://finviz.com/"><img src="https://img.shields.io/badge/finviz-screener-2e7d32.svg?style=for-the-badge" /></a></td>
+    <td><a href="https://github.com/mortada/fredapi"><img src="https://img.shields.io/badge/FRED-macro%20data-004b87.svg?style=for-the-badge" /></a></td>
+    <td><a href="https://github.com/dgunning/edgartools"><img src="https://img.shields.io/badge/SEC-EDGAR-1f4e79.svg?style=for-the-badge" /></a></td>
+    <td><a href="https://github.com/lit26/finvizfinance"><img src="https://img.shields.io/badge/finviz-screener-2e7d32.svg?style=for-the-badge" /></a></td>
     <td><a href="https://arxiv.org/archive/q-fin"><img src="https://img.shields.io/badge/arXiv-q--fin-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white" /></a></td>
   </tr>
 </table>
@@ -160,13 +160,6 @@ class QuantCreed:
   <img src="https://img.shields.io/badge/yfinance-market%20data-6001D2?style=flat&logo=yahoo&logoColor=white" />
   <img src="https://img.shields.io/badge/QuantConnect-backtesting-F7931A?style=flat" />
   <img src="https://img.shields.io/badge/DeFi-on--chain%20analytics-00ffff?style=flat" />
-</p>
-
-# <h3 align="center">────⋆⋅☣︎⋅⋆── GITHUB STATS ──⋆⋅☣︎⋅⋆────</h3>
-<p align="center">
-<a href="https://github.com/dyehuthy">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dyehuthy&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</a>
 </p>
 
 <p align="center"><sub><i>"Risk comes from not knowing what you're doing." — Warren Buffett</i></sub></p>
